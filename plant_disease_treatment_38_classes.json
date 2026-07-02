@@ -1,0 +1,154 @@
+{
+  "Apple___Apple_scab": {
+    "cure": "Apply captan or myclobutanil fungicides and remove infected leaves.",
+    "precaution": "Ensure good air circulation and avoid overhead watering."
+  },
+  "Apple___Black_rot": {
+    "cure": "Prune infected branches and apply fungicides.",
+    "precaution": "Remove fallen fruit and sanitize orchard debris."
+  },
+  "Apple___Cedar_apple_rust": {
+    "cure": "Apply myclobutanil or propiconazole fungicides.",
+    "precaution": "Remove nearby cedar hosts and monitor regularly."
+  },
+  "Apple___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Maintain routine care and monitoring."
+  },
+  "Blueberry___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Maintain proper soil moisture and nutrition."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "cure": "Apply sulfur or potassium bicarbonate fungicides.",
+    "precaution": "Improve airflow and reduce humidity."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Continue standard orchard management."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "cure": "Use recommended fungicides and resistant hybrids.",
+    "precaution": "Rotate crops and avoid dense planting."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "cure": "Apply fungicides when infection is severe.",
+    "precaution": "Use resistant varieties and monitor crops."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "cure": "Apply fungicides and remove infected debris.",
+    "precaution": "Rotate crops and use resistant hybrids."
+  },
+  "Corn_(maize)___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Maintain balanced irrigation and nutrition."
+  },
+  "Grape___Black_rot": {
+    "cure": "Apply fungicides and remove infected berries.",
+    "precaution": "Prune vines for better airflow."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "cure": "Prune affected vines and remove infected wood.",
+    "precaution": "Sanitize tools and avoid trunk injuries."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "cure": "Use copper-based fungicides.",
+    "precaution": "Reduce excess moisture and improve ventilation."
+  },
+  "Grape___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Continue standard vineyard practices."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "cure": "No known cure; remove infected trees.",
+    "precaution": "Control psyllid vectors and inspect trees frequently."
+  },
+  "Peach___Bacterial_spot": {
+    "cure": "Apply copper sprays and resistant cultivars.",
+    "precaution": "Avoid overhead irrigation and prune properly."
+  },
+  "Peach___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Maintain balanced nutrition and irrigation."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "cure": "Apply copper-based bactericides.",
+    "precaution": "Use certified seeds and avoid leaf wetness."
+  },
+  "Pepper,_bell___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Monitor regularly and maintain nutrition."
+  },
+  "Potato___Early_blight": {
+    "cure": "Apply chlorothalonil or mancozeb fungicides.",
+    "precaution": "Rotate crops and remove infected foliage."
+  },
+  "Potato___Late_blight": {
+    "cure": "Apply systemic fungicides and destroy infected plants.",
+    "precaution": "Avoid overhead watering and monitor humidity."
+  },
+  "Potato___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Maintain proper fertilization and irrigation."
+  },
+  "Raspberry___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Ensure good drainage and regular monitoring."
+  },
+  "Soybean___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Use proper crop rotation and nutrient management."
+  },
+  "Squash___Powdery_mildew": {
+    "cure": "Apply sulfur-based fungicides.",
+    "precaution": "Improve air circulation and avoid overcrowding."
+  },
+  "Strawberry___Leaf_scorch": {
+    "cure": "Remove infected leaves and apply fungicides if necessary.",
+    "precaution": "Avoid overhead watering and maintain sanitation."
+  },
+  "Strawberry___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Maintain proper irrigation and fertilization."
+  },
+  "Tomato___Bacterial_spot": {
+    "cure": "Apply copper-based bactericides.",
+    "precaution": "Use disease-free seeds and avoid leaf wetness."
+  },
+  "Tomato___Early_blight": {
+    "cure": "Apply fungicides such as chlorothalonil.",
+    "precaution": "Rotate crops and remove infected leaves."
+  },
+  "Tomato___Late_blight": {
+    "cure": "Apply appropriate fungicides and remove infected plants.",
+    "precaution": "Avoid excessive moisture and monitor crops."
+  },
+  "Tomato___Leaf_Mold": {
+    "cure": "Use fungicides and improve greenhouse ventilation.",
+    "precaution": "Reduce humidity and avoid overcrowding."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "cure": "Apply fungicides and remove infected foliage.",
+    "precaution": "Avoid overhead irrigation and rotate crops."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "cure": "Apply miticides or insecticidal soap.",
+    "precaution": "Monitor regularly and maintain plant health."
+  },
+  "Tomato___Target_Spot": {
+    "cure": "Apply recommended fungicides.",
+    "precaution": "Remove plant debris and improve airflow."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "cure": "No cure available; remove infected plants.",
+    "precaution": "Control whiteflies and use resistant varieties."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "cure": "No cure available; remove infected plants.",
+    "precaution": "Disinfect tools and avoid handling infected plants."
+  },
+  "Tomato___healthy": {
+    "cure": "No treatment required.",
+    "precaution": "Maintain proper watering and fertilization."
+  }
+}
